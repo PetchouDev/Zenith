@@ -1,0 +1,37 @@
+# vscode files
+.vscode/
+.dist/
+
+# pycharm files
+.idea/
+
+# python files
+__pycache__/
+*.pyc
+
+# virtualenv files
+venv/
+.env/
+env/
+
+# visual ressources (unnecessary for the project)
+assets/
+
+# password hash/token (encoded or not)
+data/password
+data/token
+
+# users' xp
+data/xp.json
+
+# logs
+data/logs
+
+# personal build sript
+run.sh
+
+# backup files
+data_bak/
+
+# scrapped page
+timetable.html
